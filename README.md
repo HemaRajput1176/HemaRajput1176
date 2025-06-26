@@ -1,4 +1,3 @@
-# Github_profile_Setup
 <h1 align="center">Hi 👋, I'm Hema RAJPUT</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
